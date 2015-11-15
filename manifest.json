@@ -13,6 +13,6 @@
 	"display": "standalone",
 	"orientation": "portrait",
 	"start_url": "/simple-demo/?home=true",
-	"theme_color": "#3F51B5",
+	"theme_color": "#283593",
 	"background_color": "#f5f5f5"
 }
