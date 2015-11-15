@@ -23,7 +23,7 @@
 
 // Version 0.57
 
-importScripts('/cache-polyfill.js');
+importScripts('/simple-demo/cache-polyfill.js');
 
 self.addEventListener('install', function(e) {
 	e.waitUntil(
