@@ -1,6 +1,6 @@
 {
 	"name": "Simple web app demo",
-	"short_name": "Demo2",
+	"short_name": "Demo",
 	"icons": [
 		{
 			"src": "icon-medium.png",
@@ -13,6 +13,5 @@
 	"theme_color": "#3F51B5",
 	"background_color": "#F5F5F5",
 	"display": "standalone",
-	"orientation": "landscape",
 	"start_url": "/simple-demo/?home=true"
 }
