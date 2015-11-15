@@ -7,7 +7,7 @@
 			"sizes": "96x96"
 		},{
 			"src": "icon-large.png",
-			"sizes": "192x192",
+			"sizes": "192x192"
 		}
 	],
 	"display": "standalone",
