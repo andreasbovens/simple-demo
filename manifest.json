@@ -12,7 +12,7 @@
 	],
 	"theme_color": "#3F51B5",
 	"background_color": "#F5F5F5",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "landscape",
 	"start_url": "/simple-demo/?home=true"
 }
